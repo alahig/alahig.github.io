@@ -24,27 +24,39 @@ Here are some of the main findings from our analysis:
 
 - *There is seasonality across cities*. We found that the average price varies depending on the month and the city. Some cities have a clear peak season, while others have a more stable demand throughout the year. For example, Barcelona has the highest prices in June, July and August, which are the most popular months for tourists to visit the city. On the other hand, Amsterdam has relatively constant prices all year round, which indicates that it attracts visitors for different reasons and occasions.
 ![Loading image](./median_prices_of_airbnb_in_barcelona.png) *Median prices in Barcelona over time*
+
+
 ![Loading image](./median_prices_of_airbnb_in_amsterdam.png) *Median prices in Amsterdam over time*
 - *Prices are higher at some special dates*. We found that the average price spikes at some specific dates, such as Christmas, New Year's Eve. These are times when people tend to travel more and look for accommodation options. For example, in Berlin, the median price jumped by around $40 (around 40%) around Christmas 2022. This suggests that hosts can charge more during these periods and take advantage of the increased demand.
 ![Loading image](./median_prices_of_airbnb_in_berlin.png) *Median prices in Berlin over time*
 
 - *There is an usual up and down during the week*. We found that the average price fluctuates depending on the day of the week and the city. You see this in the higher frequency up and downs in the charts above. This implies that hosts can adjust their prices according to the weekly patterns and increase the revenue.
-- *Only a modest part of owners use dynamic pricing*. We found that most of the listings have a fixed price throughout the year, regardless of the changes in demand and supply. Only a small percentage of hosts use dynamic pricing, which means that they adjust their prices according to the market conditions and their own preferences. For example, in Berlin, only 30% of the listings have more than 3 different prices over the year. Around 40% of the listings in Berlin do not even distinguish between weekdays/weekends. This indicates that there is room for improvement in terms of pricing optimization.
+- *Only a modest part of owners use dynamic pricing*. We found that a lot of the listings have a fixed price throughout the year, regardless of season and weekday. For example, in Berlin, only 30% of the listings have more than 3 different prices. Around 40% of the listings in Berlin do not even distinguish between weekdays/weekends. This indicates that there is room for improvement in terms of dynamic prizing.
+
+
 ![Loading image](./number_of_different_prices.png) *Distribution in the number of different prices*
 
 - *Location matters extremely*. We found that the average price varies significantly depending on the neighborhood and the distance from the city center. Generally speaking, the closer to the center and the more popular the area, the higher the price. For example, in Amsterdam, the average price in the center is above $200 per night and room, while in periphery it is $60 per night. This shows that hosts can charge more if their property is located in a desirable location or has easy access to public transportation. Berlin is somehow the exception, prices are high in the center but there are also peripherical places where prices are very high. It is key to observe prices in the neighboorhood to know what you can charge.
 ![Loading image](./median_price_per_room_in_amsterdam.png) *Median price per room in Amsterdam*
+
+
 ![Loading image](./median_price_per_room_in_berlin.png) *Median price per room in Berlin*
+
+
 ![Loading image](./median_price_per_room_in_barcelona.png) *Median price per room in Barcelona*
+
+
 ![Loading image](./median_price_per_room_in_athens.png) *Median price per room in Athens*
 
 
-- *Amenities do not play too much of a role*. We found that the average price does not change much depending on the amenities provided by the host. The only exception is TV, which seems to have a positive effect on the price. For example, in Berlin, listings with dishwasher hcan charge on average $23 more per night. This suggests that hosts can increase their income by selectively adding some gadgets or by highlighting it in their description.
+- *Amenities do not play too much of a role*. We found that the average price does not change much depending on the amenities provided by the host. There are however items, which seem to have a positive effect on the price. For example, in Berlin, listings with dishwasher can charge on average $23 more per night. This suggests that hosts can increase their income by selectively adding some gadgets or by highlighting it in their description.
 ![Loading image](./avg_price_amenities.png) *Difference in median price per room for the most metioned amenities*
 
 - *Ratings are good on average and there is low correlation between ratings and availability*. We found that the average rating of the listings is high across all cities, ranging from 4.5 to 4.8 out of 5. This means that most of the guests are satisfied with their stay and leave positive feedback. We also found that there is a weak negative correlation between the ratings and the availability of a listing. This means that ratings do have a slightly negative impact on the occupancy rate of a listing. This suggests that ownwers could try to incentivce incumbents to review there flats.
 
 ![Loading image](./distribution_scores.png) *Distribution of review scores*
+
+
 ![Loading image](./availability_review.png) *Correlation between availability and average rating*
 
 
