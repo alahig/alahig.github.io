@@ -1,6 +1,6 @@
 ---
 title: How to Increase Your Airbnb Income
-author: John Doe
+author: A Lahig
 tags: airbnb, data analysis, tips
 ---
 
