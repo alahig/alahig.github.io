@@ -1,7 +1,9 @@
 ---
+layout: post
 title: How to Increase Your Airbnb Income
 author: A Lahig
 tags: airbnb, data analysis, tips
+img: ./median_price_per_room_in_berlin.png
 ---
 
 # How to Increase Your Airbnb Income
