@@ -5,6 +5,7 @@ author: A Lahig
 tags: airbnb, data analysis, tips
 img: /images/median_price_per_room_in_berlin.png
 ---
+![Loading image](/images/median_price_per_room_in_berlin.png)
 
 # How to Increase Your Airbnb Income
 
