@@ -10,9 +10,6 @@ img: ./median_price_per_room_in_berlin.png
 
 
 
-
-How to Increase Your Income as an Airbnb Host
-
 If you are an Airbnb host, you might be wondering how to maximize your income from renting out your property. You might think that the only factors that affect your earnings are the size, location, and quality of your property. However, there are many other aspects that can influence how much you can charge and how often you can get bookings. In this blogpost, we will share some insights from analyzing the Airbnb data for four European cities: Amsterdam, Barcelona, Berlin, and Athens. We will show you how to use this data to optimize your pricing strategy and increase your occupancy rate.
 
 The data we used was collected from the Airbnb website in September 2023. We focused on four cities that have different characteristics and attract different types of tourists. We looked at various features of the listings, such as the number of bedrooms, amenities, reviews, ratings, availability, and price. We also considered the seasonality, special dates, and weekly patterns of the demand and supply. We used descriptive statistics and visualization techniques to explore the data and find some interesting patterns and correlations.
@@ -21,7 +18,7 @@ Here are some of the main findings from our analysis:
 
 - *Smaller apartments earn more per room*. We found that the average price per room decreases as the number of rooms increases. This means that smaller apartments have a higher return on investment than larger ones. For example, in Amsterdam, a one-room apartment has an average price of $200 per room and night, while a four-room apartment has an average price of $110 per night. This suggests that property owners with large buildings could consider splitting the flats up into smaller units at the next renovation.
 
-![Loading image](./median_price_per_bedroom.png) *Mean price per bedroom*
+![Loading image](/images/median_price_per_bedroom.png) *Mean price per bedroom*
 
 
 - *There is seasonality across cities*. We found that the average price varies depending on the month and the city. Some cities have a clear peak season, while others have a more stable demand throughout the year. For example, Barcelona has the highest prices in June, July and August, which are the most popular months for tourists to visit the city. On the other hand, Amsterdam has relatively constant prices all year round, which indicates that it attracts visitors for different reasons and occasions.
