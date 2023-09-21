@@ -3,12 +3,11 @@ layout: post
 title: How to Increase Your Airbnb Income
 author: A Lahig
 tags: airbnb, data analysis, tips
-img: /images/median_price_per_room_in_berlin.png
 ---
 ![Loading image](/images/median_price_per_room_in_berlin.png)
 
 # How to Increase Your Airbnb Income
-
+![Loading image](/images/median_price_per_room_in_berlin.png)
 
 
 If you are an Airbnb host, you might be wondering how to maximize your income from renting out your property. You might think that the only factors that affect your earnings are the size, location, and quality of your property. However, there are many other aspects that can influence how much you can charge and how often you can get bookings. In this blogpost, we will share some insights from analyzing the Airbnb data for four European cities: Amsterdam, Barcelona, Berlin, and Athens. We will show you how to use this data to optimize your pricing strategy and increase your occupancy rate.
